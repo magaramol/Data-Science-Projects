@@ -4,7 +4,7 @@ Welcome to the Data Science Exploratory Data Analysis (EDA) Projects repository!
 
 ## Projects
 
-1. **[Retail Data Insights](./Retail Data Insights.ipynb/)**: Analyzing customer purchase history to understand behavior patterns and sales trends.
+1. **[Retail Data Insights](./Retail_Data_Insights.ipynb/)**: Analyzing customer purchase history to understand behavior patterns and sales trends.
 2. **[Climate Data Analysis with NetCDF Format](./climate_data/)**: Analyzing climate data stored in NetCDF format to understand climate patterns and changes.
 3. **[Telecom Churn Analysis](./telecom_churn/)**: Analyzing factors contributing to customer churn in the telecom industry.
 4. **[Kaggle Survey Exploration](./kaggle_survey/)**: Exploring the Kaggle survey dataset to understand trends in the data science and machine learning community.
