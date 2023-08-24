@@ -1,13 +1,13 @@
 # Data Science Exploratory Data Analysis (EDA) Projects
 
-Welcome to the Data Science Exploratory Data Analysis (EDA) Projects repository! This repository contains a collection of my EDA projects in which I explore various datasets to uncover insights, visualize trends, and gain a deeper understanding of the data. Each project focuses on a different dataset, and you can find the Jupyter notebook for each project by following the provided links.
+Welcome to the Data Science Exploratory Data Analysis (EDA) Projects repository! This repository contains a collection of my EDA projects in which I explore various datasets to uncover insights, visualize trends, and gain a deeper understanding of the data. Each project focuses on a different dataset, and you can find the Jupyter notebook for each project by navigating into the project folders.
 
 ## Projects
 
-1. [Retail Data Insights](./retail_data/): Analyzing customer purchase history to understand behavior patterns and sales trends.
-2. [Climate Data Analysis with NetCDF Format](./climate_data/): Analyzing climate data stored in NetCDF format to understand climate patterns and changes.
-3. [Telecom Churn Analysis](./telecom_churn/): Analyzing factors contributing to customer churn in the telecom industry.
-4. [Kaggle Survey Exploration](./kaggle_survey/): Exploring the Kaggle survey dataset to understand trends in the data science and machine learning community.
+1. [Retail Data Insights](./Retail Data Insights.ipynb/): Analyzing customer purchase history to understand behavior patterns and sales trends.
+2. [Climate Data Analysis with NetCDF Format](./Climate Data Analysis with NetCDF Format.ipynb/): Analyzing climate data stored in NetCDF format to understand climate patterns and changes.
+3. [Telecom Churn Analysis](./Telecom Churn Analysis.ipynb/): Analyzing factors contributing to customer churn in the telecom industry.
+4. [Kaggle Survey Exploration](./Kaggle Survey Exploration.ipynb/): Exploring the Kaggle survey dataset to understand trends in the data science and machine learning community.
 
 ## Usage
 
